@@ -1,4 +1,4 @@
-import AvatarStyles from "./Avatar.module.css";
+import AvatarStyles from "./../styles/Avatar.module.css";
 
 interface avatarProps {
 	simpson: {
